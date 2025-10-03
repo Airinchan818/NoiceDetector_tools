@@ -38,6 +38,12 @@ bash
   git clone https://github.com/Airinchan818/NoiceDetector_tools.git
   cd NoiceDetector_tools
 ```
+
+how to use:
+-----------------
+```
+  python -m main
+```
 tools need:
 --------------
 - Torch
